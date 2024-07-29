@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "title": "Dream house",
         "artist": "Deafheaven",
         "album": "Sunbather",
@@ -8,6 +9,7 @@
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Deafheaven_-_Sunbather_2013.png"
     },
     {
+        "id": "2",
         "title": "Sunbather",
         "artist": "Deafheaven",
         "album": "Sunbather",
@@ -16,6 +18,7 @@
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Deafheaven_-_Sunbather_2013.png"
     },
     {
+        "id": "3",
         "title": "In Blur",
         "artist": "Deafheaven",
         "album": "Infinite Granite",
@@ -24,6 +27,7 @@
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Infinite_Granite_%28Deafheaven%29.png"
     },
     {
+        "id": "4",
         "title": "Advent",
         "artist": "Opeth",
         "album": "Morningrise",
