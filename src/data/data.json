@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Dream house",
+        "artist": "Deafheaven",
+        "album": "Sunbather",
+        "genre": "Blackgaze",
+        "length": "9:15",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Deafheaven_-_Sunbather_2013.png"
+    },
+    {
+        "title": "Sunbather",
+        "artist": "Deafheaven",
+        "album": "Sunbather",
+        "genre": "Blackgaze",
+        "length": "10:17",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Deafheaven_-_Sunbather_2013.png"
+    },
+    {
+        "title": "In Blur",
+        "artist": "Deafheaven",
+        "album": "Infinite Granite",
+        "genre": "Shoegaze",
+        "length": "5:29",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Infinite_Granite_%28Deafheaven%29.png"
+    },
+    {
+        "title": "Advent",
+        "artist": "Opeth",
+        "album": "Morningrise",
+        "genre": "Progressive Death Metal",
+        "length": "13:44",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Opeth_Morningrise.jpg"
+    },
+    {
+        "title": "Feels Like We Only Go Backwards",
+        "artist": "Tame Impala",
+        "album": "Lonerism",
+        "genre": "Psychedelic Rock",
+        "length": "3:12",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/3/31/Tame_Impala_-_Lonerism.png"
+    },
+    {
+        "title": "Earthbound",
+        "artist": "Sylvaine",
+        "album": "Wistful",
+        "genre": "Black metal",
+        "length": "6:02",
+        "cover_url": "https://f4.bcbits.com/img/a3156894037_10.jpg"
+    },
+    {
+        "title": "Escape",
+        "artist": "Germ",
+        "album": "Escape",
+        "genre": "Black metal",
+        "length": "8:25",
+        "cover_url": "https://www.angrymetalguy.com/wp-content/uploads/2016/04/Germ-Escape-500x500.jpg"
+    },
+    {
+        "title": "The Frozen Soil",
+        "artist": "Autumn's Dawn",
+        "album": "Autumn's Dawn",
+        "genre": "Black metal",
+        "length": "9:01",
+        "cover_url": "https://www.metal-archives.com/images/4/0/8/7/408704.jpg?1507"
+    },
+    {
+        "title": "Herumor",
+        "artist": "Summoning",
+        "album": "With Doom We Come",
+        "genre": "Black metal",
+        "length": "7:08",
+        "cover_url": "https://www.metal-archives.com/images/6/7/3/5/673508.jpg?3416"
+    },
+    {
+        "title": "Tears of Starfire",
+        "artist": "Midnight Odyssey",
+        "album": "Funerals from the Astral Sphere",
+        "genre": "Black metal",
+        "length": "9:38",
+        "cover_url": "https://www.metal-archives.com/images/3/1/3/4/313405.jpg?3838"
+    }
+]
