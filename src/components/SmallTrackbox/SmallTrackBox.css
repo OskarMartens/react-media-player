@@ -1,0 +1,28 @@
+.small-track-box{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    background-color: #16263c;
+    color: whitesmoke;
+    padding: 4px;
+    border-top: 1px black solid;
+}
+
+.album-cover{
+    height: 5rem;
+    aspect-ratio: 1/1;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+h3{
+    margin: 0;
+}
+
+h4{
+    margin: 0;
+}
