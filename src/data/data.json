@@ -36,14 +36,16 @@
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Opeth_Morningrise.jpg"
     },
     {
-        "title": "Feels Like We Only Go Backwards",
-        "artist": "Tame Impala",
-        "album": "Lonerism",
-        "genre": "Psychedelic Rock",
-        "length": "3:12",
-        "cover_url": "https://upload.wikimedia.org/wikipedia/en/3/31/Tame_Impala_-_Lonerism.png"
+        "id": "5",
+        "title": "Schism",
+        "artist": "Tool",
+        "album": "Lateralus",
+        "genre": "Progressive Metal",
+        "length": "6:47",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Tool_-_Lateralus.jpg"
     },
     {
+        "id": "6",
         "title": "Earthbound",
         "artist": "Sylvaine",
         "album": "Wistful",
@@ -52,6 +54,7 @@
         "cover_url": "https://f4.bcbits.com/img/a3156894037_10.jpg"
     },
     {
+        "id": "7",
         "title": "Escape",
         "artist": "Germ",
         "album": "Escape",
@@ -60,6 +63,7 @@
         "cover_url": "https://www.angrymetalguy.com/wp-content/uploads/2016/04/Germ-Escape-500x500.jpg"
     },
     {
+        "id": "8",
         "title": "The Frozen Soil",
         "artist": "Autumn's Dawn",
         "album": "Autumn's Dawn",
@@ -68,6 +72,7 @@
         "cover_url": "https://www.metal-archives.com/images/4/0/8/7/408704.jpg?1507"
     },
     {
+        "id": "9",
         "title": "Herumor",
         "artist": "Summoning",
         "album": "With Doom We Come",
@@ -76,6 +81,7 @@
         "cover_url": "https://www.metal-archives.com/images/6/7/3/5/673508.jpg?3416"
     },
     {
+        "id": "10",
         "title": "Tears of Starfire",
         "artist": "Midnight Odyssey",
         "album": "Funerals from the Astral Sphere",
