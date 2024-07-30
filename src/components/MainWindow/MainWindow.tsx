@@ -11,7 +11,7 @@ export default function MainWindow(): ReactElement {
       <h2 className="header">Playlist - Moody</h2>
       <section className="main-section">
         <TrackList data={data} />
-        <MusicPlayer key={data[0].id} data={data[0]} />
+        <MusicPlayer key={data[3].id} data={data[3]} />
       </section>
     </div>
   );
